@@ -1,7 +1,7 @@
 # AIC USERCONFIG 2023/1026/1027
 
 # txpwr_lvl
-enable=1
+enable=0
 lvl_11b_11ag_1m_2g4=18
 lvl_11b_11ag_2m_2g4=18
 lvl_11b_11ag_5m5_2g4=18
